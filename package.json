@@ -1,0 +1,23 @@
+{
+    "name": "EodAPI",
+    "version": "0.0.0",
+    "description": "Back end for the Engineering on Display Project for UAA.",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.16.3",
+        "gulp": "^4.0.0",
+        "gulp-nodemon": "^2.2.1",
+        "nodemon": "^1.18.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "gulp"
+    },
+    "author": {
+        "name": "Terrance Mount",
+        "email": "thorelore@gmail.com",
+        "url": "http://terrancemount.com"
+    },
+    "license": "ISC"
+}
