@@ -1,7 +1,7 @@
 {
-    "name": "EodAPI",
+    "name": "BookAPI",
     "version": "0.0.0",
-    "description": "Back end for the Engineering on Display Project for UAA.",
+    "description": "Pluralsight test server for the BookAPI",
     "main": "app.js",
     "dependencies": {
         "express": "^4.16.3",
